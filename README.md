@@ -1,5 +1,5 @@
 Hello Welcome!
 
-I'm Prince Sebastos from Wisconsin International University, Ghana taking a BS Information Technology.
+I'm Prince Sebastos, an IT student and mechatronics enthusiast.
 
-My key interests are in cybersecurity and software development for embedded systems
+Other interests of mine are in cybersecurity and software development for embedded systems
